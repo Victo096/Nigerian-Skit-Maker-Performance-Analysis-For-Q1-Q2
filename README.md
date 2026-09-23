@@ -73,13 +73,9 @@ Different visualizations, including **bar charts, line charts, pie charts, KPI c
 
 # Summary of the Analytical Process
 
-
-# Facebook (Data Collection) 
-# Microsoft Excel (Data Cleaning & Preparation) 
-# Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
-
-
-Together, these tools provided an effective workflow for transforming raw Facebook performance data into meaningful insights about the performance and audience engagement of Nigerian skit makers during Q1 and Q2.
+Facebook (Data Collection) 
+Microsoft Excel (Data Cleaning & Preparation) 
+Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
 
 
 # Key Insights from the Analysis of Nigeria Skit Maker Performance Analysis
