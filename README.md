@@ -1,21 +1,19 @@
 # Nigerian-Skit-Maker-Performance-Analysis-For-Q1-Q2
 
-The rapid growth of social media has transformed the entertainment industry by providing content creators with platforms to reach large audiences, build communities, and measure audience engagement in real time. In Nigeria, **skit-making has emerged as a significant form of digital entertainment**, with creators using short-form comedy and relatable storytelling to attract millions of views and interactions. Understanding how audiences engage with these skits can provide useful insights into content performance, audience preferences, and the factors associated with stronger engagement.
+The rapid growth of social media has transformed comedy and entertainment in Nigeria, giving skit makers a powerful platform to create content, build audiences, and generate substantial engagement. Facebook, in particular, provides measurable indicators such as views, likes, comments, and shares that can be used to understand how audiences interact with different creators and types of comedy content. Analyzing these indicators provides valuable insight into content performance, audience preferences, engagement patterns, and the relative reach of individual skit makers.
 
-This project, titled **“Nigerian Skit Maker Performance Analysis: Q1–Q2 2026,”** examines the performance of selected Nigerian skit makers on **Facebook** during the first two quarters of 2026, covering **January to June 2026**. The analysis is based on a dataset containing **306 skits** produced by seven Nigerian skit makers: **Brain Jotter, Kiekie, Layi Wasabi, Mama Deola, Mr. Macaroni, Okola Baby, and Sabinus**. The purpose of the analysis is to compare their content performance and identify patterns in audience reach, engagement, content categories, and publishing activity.
+This analysis examines the **Facebook performance of selected Nigerian skit makers during the first and second quarters of the year, covering January to June**. The dataset was manually collated from Facebook and consists of **306 skits produced by seven Nigerian skit makers: Brain Jotter, Kiekie, Layi Wasabi, Mama Deola, Mr. Macaroni, Okola Baby, and Sabinus**. The six-month period provides a suitable basis for examining performance across creators, months, quarters, and content categories.
 
-The data was **collated from Facebook** and organized and cleaned using **Microsoft Excel** to ensure that the dataset was suitable for analysis. Key variables captured include the **skit maker, date/month of publication, content category, number of views, likes, comments, and shares**. After the data preparation stage, **Microsoft Power BI** was used to analyze the dataset and develop an interactive dashboard that summarizes the major performance indicators and makes comparisons across creators, months, quarters, and content categories easier to understand.
+The study focuses on key performance metrics, including **views, likes, comments, shares, and the number of skits released**. In addition to evaluating individual creators, the skits were grouped into content categories to identify the themes that generated stronger audience engagement. Monthly and quarterly comparisons were also incorporated to reveal changes in content output and audience interaction over the period under review.
 
-Across the 306 skits analyzed, the dataset recorded approximately **378 million views, 42 million likes, 500,000 comments, and 222,000 shares**. These metrics provide different perspectives on content performance: views indicate the overall reach of the skits, while likes, comments, and shares provide measures of how audiences interacted with the content. The analysis also considers different skit categories, including **social, lifestyle, household, family, friendship, promotion, religion, relationship, culture, and university-related content**, allowing the study to explore which themes generated higher levels of audience engagement.
+For the analytical process, **Microsoft Excel** was used for data preparation, cleaning, organization, and preliminary processing, while **Microsoft Power BI** was employed for data modelling, visualization, and the development of an interactive dashboard. These tools made it possible to transform the raw Facebook data into meaningful visual insights and provide a clearer comparison of performance across the selected creators.
 
-The analysis focuses on answering important questions such as **which skit makers generated the highest levels of views and engagement, how performance changed from January to June, which content categories attracted the most likes and shares, and how skit production varied between the first and second quarters of 2026**. By examining these dimensions, the project goes beyond simply reporting total figures and seeks to identify meaningful patterns within the Facebook performance data.
-
-Ultimately, this analysis provides a **data-driven overview of the performance of the seven selected Nigerian skit makers on Facebook during Q1 and Q2 of 2026**. The resulting Power BI dashboard transforms the collected social media data into clear visual insights that can support performance comparison, content evaluation, and a better understanding of audience engagement trends within the selected dataset.
+Overall, the analysis aims to provide a **data-driven understanding of Nigerian skit performance on Facebook**, highlighting patterns in audience engagement, content consumption, creator performance, and skit categories between January and June. Rather than relying solely on popularity or perception, the study uses measurable social media indicators to demonstrate how audiences responded to the content produced by the seven selected skit makers during the period examined.
 
 
 # Objectives of the Analysis
 
-The primary objective of this analysis is to **evaluate and compare the performance of selected Nigerian skit makers on Facebook during the first and second quarters of 2026 (January–June)** using key social-media engagement metrics. The analysis seeks to transform the data collected from 306 skits into meaningful insights that can support better understanding of content performance and audience engagement.
+The primary objective of this analysis is to **evaluate and compare the performance of selected Nigerian skit makers on Facebook during the first and second quarters (January–June)** using key social-media engagement metrics. The analysis seeks to transform the data collected from 306 skits into meaningful insights that can support better understanding of content performance and audience engagement.
 
 # The analysis aims to:
 
@@ -23,7 +21,7 @@ The primary objective of this analysis is to **evaluate and compare the performa
 
 2. **Compare the performance of individual skit makers** to determine how audience engagement is distributed among the selected creators.
 
-3. **Analyze monthly engagement trends** from January to June 2026 to identify periods of high and low audience interaction.
+3. **Analyze monthly engagement trends** from January to June  to identify periods of high and low audience interaction.
 
 4. **Compare skit production across Q1 and Q2** to understand changes in the volume of content released during the two quarters.
 
@@ -45,7 +43,7 @@ The following tools were used to collect, prepare, analyze, and visualize the Ni
 
 1. Facebook – Data Source
 
-**Facebook** served as the primary source of data for the analysis. Performance information for the **306 skits published between January and June 2026** was collected from the platform. Key metrics obtained included:
+**Facebook** served as the primary source of data for the analysis. Performance information for the **306 skits published between January to June** was collected from the platform. Key metrics obtained included:
 
 * Number of views
 * Likes
@@ -75,18 +73,25 @@ Different visualizations, including **bar charts, line charts, pie charts, KPI c
 
 # Summary of the Analytical Process
 
+
 # Facebook (Data Collection) 
+
+
 
 # Microsoft Excel (Data Cleaning & Preparation) 
 
+
+
 # Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
 
-Together, these tools provided an effective workflow for transforming raw Facebook performance data into meaningful insights about the performance and audience engagement of Nigerian skit makers during Q1 and Q2 of 2026.
+
+
+Together, these tools provided an effective workflow for transforming raw Facebook performance data into meaningful insights about the performance and audience engagement of Nigerian skit makers during Q1 and Q2.
 
 
 # Key Insights from the Analysis of Nigeria Skit Maker Performance Analysis
 
-Based on the Power BI dashboard covering **306 Nigerian skits published on Facebook between January and June 2026**, the following key insights were identified:
+Based on the Power BI dashboard covering **306 Nigerian skits published on Facebook between January to June**, the following key insights were identified:
 
 1. **Strong overall audience reach and engagement:** The 306 skits generated approximately **378 million views, 42 million likes, 500,000 comments, and 222,000 shares**. This indicates substantial audience interaction with the selected skit makers during the six-month period.
 
