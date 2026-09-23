@@ -79,6 +79,8 @@ Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
 
 # Dashbord || Report
 
+<img width="1905" height="965" alt="Image" src="https://github.com/user-attachments/assets/a6498280-99e1-4920-90a2-f0d446a6056a" />
+
 # Key Insights from the Analysis of Nigeria Skit Maker Performance Analysis
 
 Based on the Power BI dashboard covering **306 Nigerian skits published on Facebook between January to June**, the following key insights were identified:
