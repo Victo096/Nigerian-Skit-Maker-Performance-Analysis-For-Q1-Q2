@@ -45,13 +45,13 @@ The following tools were used to collect, prepare, analyze, and visualize the Ni
 
 **Facebook** served as the primary source of data for the analysis. Performance information for the **306 skits published between January to June** was collected from the platform. Key metrics obtained included:
 
-* Number of views
-* Likes
-* Comments
-* Shares
-* Skit publication period
-* Skit/content categories
-* Skit maker names
+Number of views
+Likes
+Comments
+Shares
+Skit publication period
+Skit/content categories
+Skit maker names
 
 These metrics formed the basis for measuring the reach, engagement, and overall performance of the selected skit makers.
 
@@ -75,11 +75,7 @@ Different visualizations, including **bar charts, line charts, pie charts, KPI c
 
 
 # Facebook (Data Collection) 
-
-
 # Microsoft Excel (Data Cleaning & Preparation) 
-
-
 # Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
 
 
