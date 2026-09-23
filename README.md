@@ -79,7 +79,7 @@ Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
 
 # Dashbord || Report
 
-<img width="1905" height="965" alt="Image" src="https://github.com/user-attachments/assets/a6498280-99e1-4920-90a2-f0d446a6056a" />
+<img width="1919" height="963" alt="Image" src="https://github.com/user-attachments/assets/b7bd8640-4be9-4867-9fc7-fcabb6bad573" />
 
 # Key Insights from the Analysis of Nigeria Skit Maker Performance Analysis
 
