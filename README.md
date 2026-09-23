@@ -1,4 +1,4 @@
-# Nigerian-Skit-Maker-Performance-Analysis-For-Q1-Q2
+# Nigerian-Skit-Maker-Performance-Analysis-For-Q1-Q2 2026
 
 The rapid growth of social media has transformed comedy and entertainment in Nigeria, giving skit makers a powerful platform to create content, build audiences, and generate substantial engagement. Facebook, in particular, provides measurable indicators such as views, likes, comments, and shares that can be used to understand how audiences interact with different creators and types of comedy content. Analyzing these indicators provides valuable insight into content performance, audience preferences, engagement patterns, and the relative reach of individual skit makers.
 
