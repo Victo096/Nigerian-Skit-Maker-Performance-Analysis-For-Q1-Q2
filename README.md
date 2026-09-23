@@ -77,13 +77,10 @@ Different visualizations, including **bar charts, line charts, pie charts, KPI c
 # Facebook (Data Collection) 
 
 
-
 # Microsoft Excel (Data Cleaning & Preparation) 
 
 
-
 # Microsoft Power BI (Data Analysis, Visualization & Dashboard Development)
-
 
 
 Together, these tools provided an effective workflow for transforming raw Facebook performance data into meaningful insights about the performance and audience engagement of Nigerian skit makers during Q1 and Q2.
